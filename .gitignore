@@ -1,0 +1,20 @@
+# HIES microdata belong to BBS and must never be pushed
+*.dta
+*.sav
+*.zip
+*.7z
+
+# Stata outputs and logs
+*.log
+*.smcl
+*.gph
+*.csv
+work/
+output/
+
+# OS / editor clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+*.tmp

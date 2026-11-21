@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "HIES 2022 Household Yearly Income: Stata code"
+type: software
+authors:
+  - family-names: Rahman
+    given-names: Atikur
+    orcid: "https://orcid.org/0009-0000-2936-819X"
+    affiliation: "White Globe Initiative"
+    email: atik@whiteglobeinitiative.org
+date-released: 2026-11-21
+version: 1.0.0
+license: MIT
+keywords:
+  - HIES 2022
+  - Bangladesh
+  - household income
+  - Stata
+  - household survey
